@@ -32,5 +32,7 @@ namespace homework_2.Abstract
             }
         }
 
+
+        private string adi{ get; set; }
     }
 }
